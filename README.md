@@ -35,7 +35,7 @@ A powerful Python bot to automate your journey on the **Monami Network** — com
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/cryptodai3/Monami-Automation-BOT.git
+git clone https://github.com/DalleDai/Monami-Automation-BOT.git
 ```
 ```bash
 cd Monami-Automation-BOT
